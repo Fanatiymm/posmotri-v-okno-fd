@@ -139,7 +139,7 @@ ol {
 }
 
 .content__video-card-description-container {
-  width: 190px; /* 194 + 6 + 190 = 390 */
+  width: 190px;
   height: 103px;
   flex-shrink: 0;
   display: flex;
