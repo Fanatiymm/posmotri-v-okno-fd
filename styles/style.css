@@ -172,7 +172,7 @@ ol {
 }
 
 .content__card-link:active {
-  background-color: #2a2a2a;
+  background-color: #545050;
 }
 
 .content__card-link:focus {
@@ -322,7 +322,7 @@ ol {
 }
 
 .button:active {
-  color: #6dc1fd;
+  background-color: #545050;
 }
 
 .search-form__submit-button {
